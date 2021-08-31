@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=ffc0cb&height=180&section=header&text=Beak%%Jimin&fontColor=000000&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=ffc0cb&height=180&section=header&text=Beak%&nbspJimin&fontColor=000000&fontSize=50)
 ### Hi sweetie💗
 <a href="mailto:s2104@e-mirim.hs.kr" target="_blank"> <a href="https://www.instagram.com/qiwisil_db/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/백지민)](https://www.facebook.com/백지민)
 
