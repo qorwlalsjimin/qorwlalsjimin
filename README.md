@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white=white" />
-<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=rgb(33, 143, 132)">
