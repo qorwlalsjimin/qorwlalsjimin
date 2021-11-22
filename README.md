@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=ff7f00&height=180&section=header&text=Baek%Jimin&fontColor=000000&fontSize=50)
-### Hi🧡 I'm learning syntax.<br>
+![header](https://capsule-render.vercel.app/api?type=Wave&color=ff0000&height=180&section=header&text=Baek%Jimin&fontColor=000000&fontSize=50)
+### Hi I'm learning syntax.🎅🎄<br>
 
 ### My SNS🎨
 <a href="mailto:s2104@e-mirim.hs.kr" target="_blank"> <a href="https://www.instagram.com/qiwisil_db/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/qiwisil/)](https://www.facebook.com/qiwisil/)
