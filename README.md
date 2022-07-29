@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=ff0000&height=180&section=header&text=Baek%Jimin&fontColor=000000&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=ffffff&height=180&section=header&text=Baek%Jimin&fontColor=000000&fontSize=50)
 ### Hi I'm learning syntax.🎅🎄<br>
 
 ### My SNS🎨
