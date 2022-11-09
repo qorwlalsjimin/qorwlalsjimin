@@ -1,3 +1,5 @@
+<p>🎐8월 초반부터 자격 증명에 문제가 생겨 커밋수가 계정에 반영되지 않았습니다</p>
+
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=ffffff&height=180&section=header&text=Baek%Jimin&fontColor=000000&fontSize=50)
 
 ### My Skills✨
