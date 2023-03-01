@@ -1,5 +1,3 @@
-<p>🎐8월 초반부터 11월 중순까지 자격 증명에 문제가 생겨 커밋수가 계정에 반영되지 않았습니다</p>
-
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=4A9DD5&text=Baek%20Jimin's%20Github%20&height=150&fontSize=60)
 
 <p>
