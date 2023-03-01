@@ -27,8 +27,9 @@
     <Strong>🚩My Stack</Strong><br>
 </p>
 
+
+<h6>Language</h6>
 <p>
-    <h6>Language</h6>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
@@ -41,14 +42,16 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
 </p>
+
+<h6>DB</h6>
 <p>
-    <h6>DB</h6>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 </p>
+
+<h6>Tools</h6>
 <p>
-    <h6>Tools</h6>
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"> 
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
@@ -59,7 +62,5 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorwlalsjimin&show_icons=true&theme=solarized-light)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwlalsjimin)](https://solved.ac/qorwlalsjimin)
-</div>
