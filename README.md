@@ -2,10 +2,6 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=4A9DD5&text=Baek%20Jimin's%20Github%20&height=150&fontSize=60)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorwlalsjimin&show_icons=true&theme=transparent)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwlalsjimin)](https://solved.ac/qorwlalsjimin)
-
-
 <p>
     <strong>Dev Blog</strong>
     <a href="https://qiwisil.tistory.com/" style="color: black;">https://qiwisil.tistory.com</a>
@@ -13,6 +9,9 @@
     <strong>Email</strong>
     qorwlalsjimin@naver.com<br>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorwlalsjimin&show_icons=true&theme=transparent)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwlalsjimin)](https://solved.ac/qorwlalsjimin)
 
 <br>
 
