@@ -2,10 +2,9 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=4A9DD5&text=Baek%20Jimin's%20Github%20&height=150&fontSize=60)
 
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorwlalsjimin&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwlalsjimin)](https://solved.ac/qorwlalsjimin)
-<br>
+
 
 <p>
     <strong>Dev Blog</strong>
@@ -17,8 +16,9 @@
 
 <br>
 
+<h3>👋인사드려요</h3>
 <p>
-    👋안녕하세요 백지민입니다<br>
+    안녕하세요 백지민입니다<br>
     웹 <b>백엔드와 DB</b>에 관심을 가지고 공부하고 있어요<br>
     기능을 구현해냈을때의 <b>성취감</b>으로 개발을 합니다<br>
     <b>원리</b>까지 배우려는 열정으로 가득찬 개발자입니다
