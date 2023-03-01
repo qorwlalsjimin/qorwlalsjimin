@@ -6,7 +6,7 @@
 
 <p>
     <strong>✒️Dev Blog</strong>
-    <a href="https://qorwlalsjimin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    <a href="https://qiwisil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <br>
     <strong>💌Email</strong>
     qorwlalsjimin@naver.com<br>
