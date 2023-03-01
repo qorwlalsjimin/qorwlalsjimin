@@ -6,7 +6,7 @@
 
 <p>
     <strong>Dev Blog</strong>
-    <a href="https://qiwisil.tistory.com/">https://qiwisil.tistory.com</a>
+    <a href="https://qiwisil.tistory.com/" style="color: black;">https://qiwisil.tistory.com</a>
     <br>
     <strong>Email</strong>
     qorwlalsjimin@naver.com<br>
