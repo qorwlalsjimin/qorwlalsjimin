@@ -3,8 +3,8 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=4A9DD5&text=Baek%20Jimin's%20Github%20&height=150&fontSize=60)
 
 <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorwlalsjimin&show_icons=true&theme=solarized-light)
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwlalsjimin)](https://solved.ac/qorwlalsjimin)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorwlalsjimin&show_icons=true&theme=solarized-light)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwlalsjimin)](https://solved.ac/qorwlalsjimin)
 </div>
 
 <br>
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
                 
-    Used at least once
+    <h6>Used at least once</h6>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
 </p>
