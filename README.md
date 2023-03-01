@@ -2,11 +2,6 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=4A9DD5&text=Baek%20Jimin's%20Github%20&height=150&fontSize=60)
 
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorwlalsjimin&show_icons=true&theme=solarized-light)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwlalsjimin)](https://solved.ac/qorwlalsjimin)
-</div>
-
 <br>
 
 <p>
@@ -63,3 +58,9 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+
+
+<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorwlalsjimin&show_icons=true&theme=solarized-light)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwlalsjimin)](https://solved.ac/qorwlalsjimin)
+</div>
