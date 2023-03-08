@@ -33,10 +33,6 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-    
-    <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=PowerPoint&logoColor=white">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Excel&logoColor=white">
-    <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=Word&logoColor=white">
 </p>
 
 <h5>Used at least once</h5>
