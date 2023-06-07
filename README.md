@@ -1,14 +1,14 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=4A9DD5&text=Baek%20Jimin's%20Github%20&height=150&fontSize=60)
 
-<p>
-    <strong>Dev Blog</strong>
-    <a href="https://qiwisil.tistory.com/" style="color: black;">https://qiwisil.tistory.com</a>
-    <br>
-    <strong>Email</strong>
-    qorwlalsjimin@naver.com<br>
-</p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorwlalsjimin&show_icons=true&theme=transparent)
+``` javascript
+const information = {
+  name: '백지민',
+  github: 'https://github.com/qorwlalsjimin',
+  velog: 'https://velog.io/@qiwisil_227'
+  tistory: 'https://qiwisil.tistory.com/',
+  email: 'qorwlalsjimin@naver.com',
+ };  
+```  
 
 <br>
 
