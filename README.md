@@ -6,7 +6,7 @@ const information = {
   github: 'https://github.com/qorwlalsjimin',
   velog: 'https://velog.io/@qiwisil_227',
   tistory: 'https://qiwisil.tistory.com/',
-  email: 'qorwlalsjimin@naver.com',
+  email: 'qorwlalsjimin@naver.com'
  };  
 ```  
 
