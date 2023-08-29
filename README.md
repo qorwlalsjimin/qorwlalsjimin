@@ -19,8 +19,6 @@ const information = {
 <br>
 
 <h3>🛠</h3>
-
-<h5>Skills</h5>
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
