@@ -14,6 +14,7 @@ const information = {
 <p>
     안녕하세요 백지민입니다<br>
     현재는 <b>SAP 보안 솔루션</b> 개발자로 근무하고 있습니다. <br>
+    DB Query 작성, OS와 네트워크 지식을 좋아합니다 💕 <br>
 </p>
 
 <br>
