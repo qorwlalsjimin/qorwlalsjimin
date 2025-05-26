@@ -8,14 +8,6 @@ const information = {
 ```  
 
 <br>
-<div align="center">
-<h3>👋</h3>
-<p>
-    안녕하세요 백지민입니다<br>
-    현재는 <b>SAP 보안 솔루션</b> 개발자 및 사이트 엔지니어로 근무하고 있습니다. <br>
-</p>
-
-<br>
 
 <h3>🛠</h3>
 <p>
