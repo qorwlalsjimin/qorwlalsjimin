@@ -2,7 +2,6 @@
 const information = {
   name: '백지민',
   github: 'https://github.com/qorwlalsjimin',
-  velog: 'https://velog.io/@qiwisil_227',
   tistory: 'https://qiwisil.tistory.com/',
   email: 'qorwlalsjimin@naver.com'
  };  
